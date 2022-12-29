@@ -1,0 +1,23 @@
+.searchContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 400px;
+  margin: 1em auto;
+
+
+  input {
+    width: 92%;
+    height: 30px;
+    padding: 0 10px;
+    color: #000;
+  }
+
+  button {
+    width: 8%;
+    height: 30px;
+    cursor: pointer;
+    background-color: #0e1129;
+    border: none;
+  }
+}
